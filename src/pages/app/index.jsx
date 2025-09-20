@@ -16,9 +16,9 @@ function App() {
         </div>
 
         <div className="links">
-          <Link className='link'>Home</Link>
-          <Link className='link' to='/cursos'>cursos</Link>
-          <Link className='link' to='/cadastra'>cadastro</Link>
+          <Link className='link'>Inicio</Link>
+          <Link className='link' to='/cursos'>Cursos</Link>
+          <Link className='link' to='/cadastra'>Cadastro</Link>
           
         </div>
       </div>
@@ -62,16 +62,16 @@ function App() {
           <br /><br />
           <span className="inscrever">Inscreva-se agora</span> e garanta sua participação!
           <br />
-          <a href="#" className="linkn">[Clique aqui para se cadastrar]</a>
+          <Link className="linkn" to='/cadastra'>[Clique aqui para se cadastrar]</Link>
         </h4>
       </div>
 
       <h5>Contatos</h5>
 
       <div className="imags-rede">
-        <a href="#"><img className="novo1" src="/assets/image/watss.png" alt="WhatsApp" /></a>
-        <a href="#"><img className="novo2" src="/assets/image/intagram.png" alt="Instagram" /></a>
-        <a href="#"><img className="novo3" src="/assets/image/facbo.png" alt="Facebook" /></a>
+        <a href="https://www.whatsapp.com/?lang=pt_BR"><img className="novo1" src="/assets/image/watss.png" alt="WhatsApp" /></a>
+        <a href="https://www.instagram.com/"><img className="novo2" src="/assets/image/intagram.png" alt="Instagram" /></a>
+        <a href="https://www.facebook.com/?locale=pt_BR"><img className="novo3" src="/assets/image/facbo.png" alt="Facebook" /></a>
       </div>
 
     </div>

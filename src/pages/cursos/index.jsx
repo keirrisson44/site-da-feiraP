@@ -14,8 +14,9 @@ function Cursos() {
         </div>
 
         <div className="links">
-          <Link className='link' to='/'>Home</Link>
-          <Link className='link' to='/cursos'>cursos</Link>
+          <Link className='link' to='/'>Inicio</Link>
+          <Link className='link' to='/cursos'>Cursos</Link>
+          <Link className='link' to='/cadastra'>cadastra</Link>
         </div>
       </div>
 
@@ -34,25 +35,25 @@ function Cursos() {
 <div className="cursos">
 
   <div className="cursos-parte">
-    <img className="imagem-curso" src="/assets/download11.png" alt="Curso de Informática" />
+    <img className="imagem-curso" src="/assets/image/download 11.png" alt="Curso de Informática" />
     <h3>Informática</h3>
     <p>
       Na <span className="bold11">Informática</span> você vai<br />
       aprender a montar computadores do zero,<br />
       programar, criar banco de dados, criar sites, etc.
       <br /><br />
-      <a className="linn" href="#">Clique aqui para mais informações.</a>
+     
     </p>
   </div>
 
   <div className="cursos-parte">
-    <img className="imagem-curso" src="/assets/popoo.png" alt="Curso de Eletromecânica" />
+    <img className="imagem-curso" src="/assets/image/popoo.png" alt="Curso de Eletromecânica" />
     <h3>Eletromecânica</h3>
     <p>
       No curso de <span className="bold11">Eletromecânica</span>, você se tornará um técnico apto a atuar na instalação,
       manutenção e operação de sistemas que combinam componentes elétricos e mecânicos, com foco em equipamentos e máquinas industriais.
       <br /><br />
-      <a className="linn" href="#">Clique aqui para mais informações.</a>
+      
     </p>
   </div>
 
@@ -61,7 +62,7 @@ function Cursos() {
 <div className="cursos2">
 
   <div className="cursos-parte2">
-    <img className="imagem-curso" src="/assets/oososo.png" alt="Curso de Comunicação Visual" />
+    <img className="imagem-curso" src="/assets/image/oososo.png" alt="Curso de Comunicação Visual" />
     <h3>Comunicação Visual</h3>
     <p>
       O curso de comunicação visual prepara profissionais para criar e desenvolver 
@@ -69,18 +70,18 @@ function Cursos() {
       transmitir mensagens e informações. É um curso que abrange desde a elaboração de 
       peças publicitárias e materiais de marketing até a criação de identidade visual e sinalização.
       <br /><br />
-      <a className="linn" href="#">Clique aqui para mais informações.</a>
+      
     </p>
   </div>
 
   <div className="cursos-parte2">
-    <img className="imagem-curso" src="/assets/iiii.png" alt="Curso de Administração" />
+    <img className="imagem-curso" src="/assets/image/iiii.png" alt="Curso de Administração" />
     <h3>Administração</h3>
     <p>
       O curso de administração é um bacharelado que forma profissionais com conhecimentos em diversas áreas da gestão,
       como finanças, marketing, recursos humanos e estratégia empresarial.
       <br /><br />
-      <a className="linn" href="#">Clique aqui para mais informações.</a>
+     
     </p>
   </div>
 
@@ -89,19 +90,19 @@ function Cursos() {
 <div className="cursos3">
 
   <div className="cursos-parte3">
-    <img className="imagem-curso" src="/assets/ingles.png" alt="Curso de Inglês" />
+    <img className="imagem-curso" src="/assets/image/ingles.png" alt="Curso de Inglês" />
     <h3>Inglês</h3>
     <p>
       Um curso de inglês pode ser uma jornada de aprendizado transformadora, abrindo portas 
       para novas oportunidades pessoais e profissionais. Ele pode te ajudar a se comunicar
       com mais confiança, acessar um vasto conhecimento e vivenciar culturas diversas.
       <br /><br />
-      <a className="linn" href="#">Clique aqui para mais informações.</a>
+      
     </p>
   </div>
 
   <div className="cursos-parte3">
-    <img className="imagem-curso" src="/assets/lddcd.png" alt="Curso de Automação Residencial e Robótica" />
+    <img className="imagem-curso" src="/assets/image/lddçd.png" alt="Curso de Automação Residencial e Robótica" />
     <h3>Automação Residencial e Robótica</h3>
     <p>
       O curso de Automação Residencial e Robótica forma profissionais para desenvolver
@@ -109,7 +110,7 @@ function Cursos() {
       introduzir conceitos de robótica. O formado pode atuar na criação,
       manutenção e consultoria de tecnologias de automação.
       <br /><br />
-      <a className="linn" href="#">Clique aqui para mais informações.</a>
+    
     </p>
   </div>
 
