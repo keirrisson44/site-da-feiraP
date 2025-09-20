@@ -15,7 +15,7 @@ function Cursos() {
 
         <div className="links">
           <Link className='link' to='/'>Inicio</Link>
-          <Link className='link' to='/cursos'>Cursos</Link>
+          <Link className='lin' to='/cursos'>Cursos</Link>
           <Link className='link' to='/cadastra'>cadastra</Link>
         </div>
       </div>
@@ -26,7 +26,7 @@ function Cursos() {
         </h1>
       </div>
 
-      <img className="instituto" src="/assets/image/instituto.jpg" alt="Instituto" />
+      <img className="instituto" src="/assets/image/Cópia de FEI_2024_CEDESP85.jpeg" alt="Instituto" />
 
       <img className="logo-feira" src="/assets/image/profisaaao.png" alt="Feira" />
 

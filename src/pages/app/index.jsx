@@ -16,7 +16,7 @@ function App() {
         </div>
 
         <div className="links">
-          <Link className='link'>Inicio</Link>
+          <Link className='lin'>Inicio</Link>
           <Link className='link' to='/cursos'>Cursos</Link>
           <Link className='link' to='/cadastra'>Cadastro</Link>
           
@@ -44,7 +44,7 @@ function App() {
 
       <div className="text">
         <h3>
-          Feira de Profissões <span className="yellow">2025</span>
+          Feira de Profissões <span className="llow">2025</span>
         </h3>
         <br />
         <h4 className="trabalho">
